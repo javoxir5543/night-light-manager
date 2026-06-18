@@ -7,8 +7,15 @@ A lightweight, stable alternative to Redshift and Generic Monitor plugin.
 - Adjust screen warmth with **your own hotkeys** (you choose the keys)
 - Saves last value and restores on login
 
-## Installation
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/javoxir5543/night-light-manager.git
-   cd night-light-manager
+---
+
+## 📥 Installation Guide / O'rnatish qo'llanmasi
+
+### English 🇬🇧
+
+#### 1. Download the project
+- Open Terminal: `Ctrl + Alt + T`
+- Clone the repository:
+```bash
+git clone https://github.com/javoxir5543/night-light-manager.git
+cd night-light-manager
