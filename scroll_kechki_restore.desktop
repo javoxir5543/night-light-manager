@@ -1,0 +1,7 @@
+[Desktop Entry]
+Type=Application
+Name=Kechki rejimni tiklash
+Exec=/home/pc/.scripts/scroll_kechki.sh restore
+Hidden=false
+NoDisplay=false
+X-GNOME-Autostart-enabled=true
