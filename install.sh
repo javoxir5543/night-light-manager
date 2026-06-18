@@ -11,5 +11,5 @@ cp scroll_kechki_restore.desktop ~/.config/autostart/
 echo "✅ Installation complete!"
 echo "📌 Please set up hotkeys manually:"
 echo "   Settings -> Keyboard -> Application Shortcuts"
-echo "   Add: /home/$USER/.scripts/scroll_kechki.sh up  (Ctrl+Shift+F7)"
-echo "   Add: /home/$USER/.scripts/scroll_kechki.sh down (Ctrl+Shift+F8)"
+echo "   Add: /home/$USER/.scripts/scroll_kechki.sh up  (choose any key, e.g., Ctrl+Shift+F7)"
+echo "   Add: /home/$USER/.scripts/scroll_kechki.sh down (choose any key, e.g., Ctrl+Shift+F8)"
