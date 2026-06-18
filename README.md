@@ -18,3 +18,6 @@ A lightweight, stable alternative to Redshift and Generic Monitor plugin.
 
 ## Dependencies
 - xrandr, bc, libnotify-bin (pre-installed in Mint XFCE)
+=======
+# night-light-manager
+A lightweight night light manager for Linux Mint XFCE Лёгкий менеджер ночного режима для Linux Mint XFCE
